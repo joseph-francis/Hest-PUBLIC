@@ -2,6 +2,8 @@
 
 Hest organizes the books you read into your personal library, tracks your reading activities, keeps you engaged in your reading pursuits, and much more. 
 
+AppStore link: https://itunes.apple.com/us/app/hest-to-read-more/id1438938540?mt=8
+
 # Main features: 
 
 Add Notes to all books you have read or reading. Organized in your profile and can also see it in each book's detail information.
