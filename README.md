@@ -34,3 +34,7 @@ Search over 190 million books
   <img src="https://i.imgur.com/2GdiLR9.png" width="350" title="Stats">
   <img src="https://i.imgur.com/mEC0vAW.jpg" width="350" title="Update-Progress">
 </p>
+
+Code or more designs can be made avialable upon request
+
+
